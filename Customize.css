@@ -1,8 +1,17 @@
 body {
-    background-color: powderblue;
+    background-color: rgb(176, 224, 230);
   }
-  h1 {
-    color: rgb(0, 0, 0);
+  h1 (index.html){
+    color: rgb(230,80,250);
+  }
+  h1 (Page1.html){
+    color: rgb(230,0,200);
+  }
+  h1 (Page2.html){
+    color: rgb(80,0,230);
+  }
+  h1 (Page3.html){
+    color: rgb(127, 15, 175);
   }
   p {
     color: rgb(255, 111, 229);
